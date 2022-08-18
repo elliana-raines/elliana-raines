@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @elliana-raines
+- 👀 I’m interested in getting into programming!
+- 🏠 Currently I'm a commercial real estate investment advisor/real estate agent.
+- 🌱 I’m currently learning through Harvard's CS50 course online and hope to find a good bootcamp program to go more in depth down the line.
+- 💞️ I’m looking to collaborate on any and all projects!
+- 📫 You can reach me at my email elliana.raines@gmail.com, through my linkedin, or here as well!
